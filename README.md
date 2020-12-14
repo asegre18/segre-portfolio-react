@@ -4,15 +4,15 @@ I am a young, passionate Full Stack web developer utilizing a background in psyc
 
 ## Languages
 
-HTML
-CSS
-JavaScript
-React.js
-Node.js
-SQL
-MongoDB
-Mongoose.js
-jQuery
+HTML,
+CSS,
+JavaScript,
+React.js,
+Node.js,
+SQL,
+MongoDB,
+Mongoose.js,
+jQuery,
 Socket.io
 
 ## Portfolio Website:
