@@ -5,10 +5,10 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Resumes from "./pages/Resumes";
 import Portfolios from "./pages/Portfolios";
-import Blogs from "./pages/Blogs";
+// import Blogs from "./pages/Blogs";
 import Contact from "./pages/Contact";
 import BlogDetails from "./pages/BlogDetails";
-import Notfound from "./pages/Notfound";
+// import Notfound from "./pages/Notfound";
 
 function App() {
   return (
