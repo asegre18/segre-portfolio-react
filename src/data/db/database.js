@@ -9,7 +9,7 @@ const database = {
     // nationality: 'American',
     language: 'English',
     email: 'ambsegre@gmail.com',
-    address: '1220 SE 25th Ave, Portland, OR. 97214',
+    address: 'Portland, OR',
     freelanceStatus: 'Available',
     socialLinks: {
       facebook: 'https://www.facebook.com/andrew.segway',
@@ -42,32 +42,32 @@ const database = {
     //   details: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod."
     // }
   ],
-  reviews: [
-    {
-      id: 1,
-      content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita impedit nobis tempore quaerat quibusdam, aliquid maxime tempora.",
-      author: {
-        name: 'Burdette Turner',
-        designation: 'Web Developer, Abc Company'
-      }
-    },
-    {
-      id: 2,
-      content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita impedit nobis tempore quaerat quibusdam.",
-      author: {
-        name: 'Susan Yost',
-        designation: 'Client'
-      }
-    },
-    {
-      id: 3,
-      content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
-      author: {
-        name: 'Irving Feeney',
-        designation: 'Fiverr Client'
-      }
-    }
-  ],
+  // reviews: [
+  //   {
+  //     id: 1,
+  //     content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita impedit nobis tempore quaerat quibusdam, aliquid maxime tempora.",
+  //     author: {
+  //       name: 'Burdette Turner',
+  //       designation: 'Web Developer, Abc Company'
+  //     }
+  //   },
+  //   {
+  //     id: 2,
+  //     content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita impedit nobis tempore quaerat quibusdam.",
+  //     author: {
+  //       name: 'Susan Yost',
+  //       designation: 'Client'
+  //     }
+  //   },
+  //   {
+  //     id: 3,
+  //     content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+  //     author: {
+  //       name: 'Irving Feeney',
+  //       designation: 'Fiverr Client'
+  //     }
+  //   }
+  // ],
   skills: [
     {
       title: "HTML",
@@ -332,7 +332,7 @@ const database = {
   contactInfo: {
     phoneNumbers: ['+650-703-8006'],
     emailAddress: ['ambsegre@gmail.com'],
-    address: "1220 SE 25th Ave, Portland, OR. 97214"
+    address: "Portland, OR"
   }
 }
 
