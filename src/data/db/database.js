@@ -143,6 +143,14 @@ const database = {
       largeImageUrl: ["/images/weather-dashboard_lrg.png"],
       url: 'https://asegre18.github.io/hw6-weather-dashboard'
     },
+    {
+      id: 6,
+      title: "Google Books Search & Save",
+      subtitle: "App to search for books and save them for later use",
+      imageUrl: "/images/google-books-search.png",
+      largeImageUrl: ["/images/google-books-search.png"],
+      url: 'https://segre-google-books-search.herokuapp.com/'
+    }
   ],
   experience: {
     workingExperience: [
@@ -238,96 +246,6 @@ const database = {
       createMonth: 'February',
       createYear: "2020"
     },
-    {
-      id: 6,
-      title: 'How to choose javascript framework for project.',
-      featuredImage: '/images/blog-image-6.jpg',
-      filesource: '../../blog/how-to-choose-javascript-framework-for-project.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
-    },
-    {
-      id: 7,
-      title: 'Web automation with python language.',
-      featuredImage: '/images/blog-image-7.jpg',
-      filesource: '../../blog/web-automation-with-python-language.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
-    },
-    {
-      id: 8,
-      title: 'Time to use latest technology for creating a website.',
-      featuredImage: '/images/blog-image-8.jpg',
-      filesource: '../../blog/time-to-use-latest-technology-for-creating-a-website.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
-    },
-    {
-      id: 9,
-      title: 'Think out of the box.',
-      featuredImage: '/images/blog-image-9.jpg',
-      filesource: '../../blog/think-out-of-the-box.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
-    },
-    {
-      id: 10,
-      title: 'Trending designs in 2020.',
-      featuredImage: '/images/blog-image-1.jpg',
-      filesource: '../../blog/trending-designs-in-2020.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
-    },
-    {
-      id: 11,
-      title: 'How to get 10k instagram followers?',
-      featuredImage: '/images/blog-image-2.jpg',
-      filesource: '../../blog/how-to-get-10k-instagram-followers.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
-    },
-    {
-      id: 12,
-      title: 'What NodeJS can do?',
-      featuredImage: '/images/blog-image-3.jpg',
-      filesource: '../../blog/what-nodejs-can-do.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
-    },
-    {
-      id: 13,
-      title: 'Futures of javascript.',
-      featuredImage: '/images/blog-image-4.jpg',
-      filesource: '../../blog/future-of-javascript.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
-    },
-    {
-      id: 14,
-      title: 'Popular javascript library in 2020.',
-      featuredImage: '/images/blog-image-5.jpg',
-      filesource: '../../blog/popular-javascript-library-in-2020.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
-    },
-    {
-      id: 15,
-      title: 'Promrammers must read books.',
-      featuredImage: '/images/blog-image-6.jpg',
-      filesource: '../../blog/programmers-must-read-books.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
-    }
   ],
   contactInfo: {
     phoneNumbers: ['+650-703-8006'],
