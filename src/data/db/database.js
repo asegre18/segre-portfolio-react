@@ -23,7 +23,7 @@ const database = {
     brandImage: '/images/main-portfolio.png',
     aboutImage: '/images/linkedin-photo.JPG',
     aboutImageLg: '/images/linkedin-photo.JPG',
-    cvfile: '/files/empty.pdf'
+    cvfile: '/files/Andrew Segre_Resume 2021.pdf'
   },
   services: [
     {
@@ -117,7 +117,7 @@ const database = {
       subtitle: "A real-time card game to play with friends no matter where you are.",
       imageUrl: "/images/kings-quest-loading-screen.png",
       largeImageUrl: ["kings-quest-loading-screen.png","/images/kings-quest-login.png"],
-      url: ''
+      url: 'https://drinkwithfriends.herokuapp.com/'
     },
     {
       id: 2,
