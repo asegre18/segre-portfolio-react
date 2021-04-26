@@ -119,14 +119,14 @@ const database = {
       largeImageUrl: ["kings-quest-loading-screen.png","/images/kings-quest-login.png"],
       url: 'https://drinkwithfriends.herokuapp.com/'
     },
-    {
-      id: 2,
-      title: "Missing Link",
-      subtitle: "Web App that displays the connection between cryptocurrency and world news using Chart.js",
-      imageUrl: "/images/missingLink-LOGO.png",
-      largeImageUrl: ["/images/missingLink-LOGO.png","/images/missingLink.png" ],
-      url: 'https://moonstripe11.github.io/proj1/'
-    },
+    // {
+    //   id: 2,
+    //   title: "Missing Link",
+    //   subtitle: "Web App that displays the connection between cryptocurrency and world news using Chart.js",
+    //   imageUrl: "/images/missingLink-LOGO.png",
+    //   largeImageUrl: ["/images/missingLink-LOGO.png","/images/missingLink.png" ],
+    //   url: 'https://moonstripe11.github.io/proj1/'
+    // },
     {
       id: 3,
       title: "Passify",
